@@ -12,7 +12,7 @@ Usage
         cprint('R', 'hello world!')
 
 - param 1:
-color code:
+ color code:
  R  red
  G  green
  B  blue
